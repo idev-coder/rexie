@@ -1,0 +1,23 @@
+{
+    "name": "dynamic-views",
+    "version": "0.1.0",
+    "description": "Example of creating a dynamic app using rex",
+    "author": "Natthapat Piasangka <n.devs260340@gmail.com>",
+    "private": true,
+    "scripts": {
+        "start": "ts-node app.ts"
+    },
+    "dependencies": {
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1",
+        "rex": "file:../"
+    },
+    "devDependencies": {
+        "@babel/preset-env": "^7.25.3",
+        "@babel/preset-react": "^7.24.7",
+        "babelify": "^10.0.0",
+        "browserify": "^17.0.0",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.5.4"
+    }
+}
