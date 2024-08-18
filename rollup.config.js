@@ -20,7 +20,7 @@ module.exports = [
         sourcemap: true,
       },
       {
-        file: `${name}.mjs`,
+        file: `${name}.js`,
         format: 'es',
         sourcemap: true,
       },

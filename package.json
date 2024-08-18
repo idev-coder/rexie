@@ -1,5 +1,6 @@
 {
-  "name": "rexie",
+  "name": "@idev-coder/rexie",
+  "private":false,
   "version": "1.0.0",
   "description": "Rexie Framework",
   "main": "./build/cjs/index.js",
@@ -14,6 +15,12 @@
     },
     "./package.json": "./package.json"
   },
+  "keywords": [
+    "rexie",
+    "react",
+    "express",
+    "typescript"
+  ],
   "repository": "https://github.com/idev-coder/rexie.git",
   "author": "Natthapat Piasangka",
   "license": "MIT",
